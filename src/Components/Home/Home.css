@@ -1,0 +1,26 @@
+.body{
+    background-image: url("../../Image/Rectangle 1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.container{
+    padding-top:130px;
+    padding-bottom: 130px;
+}
+/* .place{
+    margin-right: 0px;
+    padding-right: 0px;
+} */
+.name{
+    color:white;
+}
+.booking-button{
+    width:100px;
+    border-radius:5px ;
+    background-color: goldenrod;
+
+}
+.crd-img{
+    height: 100%;
+}

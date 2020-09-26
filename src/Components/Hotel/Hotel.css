@@ -1,0 +1,24 @@
+  
+.container-body{
+    border-top: 1px solid lightgrey;
+}
+.hotel-area{
+    width:30%;
+}
+.map-area{
+    width: 30%;
+    height: 300px;
+    margin-right: 10px;
+    margin-right: -30px;
+    margin-top: 50px;
+}
+.map-area img{
+    height: 700px;
+    width: 100%;
+}
+.hotel-body{
+    background-image:    url(../../Image/Rectangle\ 26.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}

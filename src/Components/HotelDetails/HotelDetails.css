@@ -1,0 +1,8 @@
+.card.hotel-detail{
+    height: 250px;
+    width: 500px;
+    margin-left: -20px;
+}
+.card img{
+    height: 100%;
+}

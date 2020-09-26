@@ -1,0 +1,26 @@
+.navbar{
+    padding-top: 30px;
+    padding-right: 100px;
+    color: white;
+}
+.navbar img{
+    width:100px;
+    height:50px;
+    margin-left:150px;
+    margin-right: 50px;
+}
+.nav-link{
+    margin-left: 40px;
+
+    text-decoration: none;
+}
+.form-inline{
+    padding-left: 20px;
+}
+.button{
+    width:100px;
+    color: white;
+    border-radius:5px ;
+    background-color: goldenrod;
+
+}

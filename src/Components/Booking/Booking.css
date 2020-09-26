@@ -1,0 +1,13 @@
+.card{
+    margin-left: 70px;
+    height:330px;
+    background-color: lightyellow;
+    padding-top:10px;
+}
+
+.booking-body{
+    background-image:    url(../../Image/sundorbon.png);
+    background-size:     cover;                     
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
