@@ -19,7 +19,7 @@ const Hotel = () => {
                 <div className="row">
                     <div className="col hotel-area">
                         <small>252 stays April 13-17 3 guests</small>
-                        <h5>Stay in {place.name}</h5>
+                        <h5>Stay in {name}</h5>
                         {
                             place.name && hotel.map(hotel => <HotelDetails hotel={hotel}></HotelDetails>)
                         }

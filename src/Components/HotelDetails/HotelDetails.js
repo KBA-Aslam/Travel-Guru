@@ -18,7 +18,7 @@ const HotelDetails = (props) => {
               <h5 className="card-title">{title}</h5>
               <p className="card-text"> <small>{`${guests} guests ${bedroms} bedrooms ${beds} beds ${baths} baths`}</small></p>
               <p className="card-text"><small className="text-muted">{unique}</small></p>
-    <h5 className="d-flex justify-content-between"> <span> <img src={star} className="img-fluid" style={{ width: '35px', height: '35px' }} alt="" /> {rating}</span> <span>${price}/night</span> </h5>
+              <h5 className="d-flex justify-content-between"> <span> <img src={star} className="img-fluid" style={{ width: '35px', height: '35px' }} alt="" /> {rating}</span> <span>${price}/night</span> </h5>
             </div>
           </div>
       </div>
